@@ -21,5 +21,4 @@ is "SHIPPED". Raise a custom error message if an attempt is made to delete such 
 7.Write a trigger that uses a cursor to check if the items in a new order already exist 
 in the INVENTORY table. If they do, allow the insert; otherwise, prevent it.
 
-8.Write a PL/SQL block using a cursor to fetch the table names in a schema, and use dynamic SQL
-to count the number of rows in each table.
+
