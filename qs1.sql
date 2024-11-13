@@ -32,4 +32,3 @@ END;
 -- NAME:JOEL G HAS SALARY 40000
 
 -- PL/SQL procedure successfully completed.
-
